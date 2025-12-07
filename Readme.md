@@ -53,8 +53,8 @@ cp docker/.env-example docker/.env
     - API documentation is available at:
 
 - **Swagger UI:** `http://127.0.0.1:8000/swagger`
-```
 
 5. **Admin panel design**
-![alt text](image-1.png)
-![alt text](image-1.png)
+
+<img src="https://github.com/ummataliyev/transactional-system-core/raw/main/image.png" alt="Admin dashboard" width="600"/>
+<img src="https://github.com/ummataliyev/transactional-system-core/raw/main/image-1.png" alt="Admin dashboard" width="600"/>
