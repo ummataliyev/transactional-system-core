@@ -37,4 +37,5 @@ cp docker/.env-example docker/.env
 make help
 ```
 
-![admin dashboard](image.png)
+![admin dashboard](./media/image.png)
+![admin dashboard](./media/image1.png)
