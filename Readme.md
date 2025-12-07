@@ -56,5 +56,5 @@ cp docker/.env-example docker/.env
 
 5. **Admin panel design**
 
-<img src="https://github.com/ummataliyev/transactional-system-core/raw/main/image.png" alt="Admin dashboard" width="600"/>
-<img src="https://github.com/ummataliyev/transactional-system-core/raw/main/image-1.png" alt="Admin dashboard" width="600"/>
+<img src="https://github.com/ummataliyev/transactional-system-core/blob/main/media/image.png" alt="Admin dashboard" width="600"/>
+<img src="https://github.com/ummataliyev/transactional-system-core/blob/main/media/image-1.png" alt="Admin dashboard" width="600"/>
